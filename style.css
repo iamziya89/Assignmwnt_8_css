@@ -1,0 +1,128 @@
+body{
+    background-color: rgb(156, 152, 152);
+}
+.heading{
+    width: 100%;
+    padding: 1px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(58, 6, 58);
+    color: white;
+    font-size: 25px;
+}
+.img1{
+    width: 230px;
+    height: 150px;
+    padding: 0px;
+    margin-left: 20%;
+    border: 1rem solid  rgb(58, 6, 58);
+}
+.img2{
+    width: 230px;
+    height: 150px;
+    padding: 0px;
+    margin-left: 20%;
+    border: dashed  rgb(58, 6, 58);
+    border-width: 1em;
+}
+.img3{
+    width: 230px;
+    height: 150px;
+    padding: 0px;
+    margin-left: 20%;
+    border:dotted  rgb(58, 6, 58);
+    border-width: 1em;
+}
+.img4{
+    width: 230px;
+    height: 150px;
+    padding: 0px;
+    margin-left: 80%;
+    margin-right: 50%;
+    border:groove rgb(141, 66, 141);
+    border-width: 1em;
+}
+.img5{
+    width: 230px;
+    height: 150px;
+    padding: 0px;
+    margin-left: 80%;
+    margin-right: 50%;
+    border:groove rgb(109, 18, 109);
+    border-width: 1em; 
+}
+.img6{
+    width: 230px;
+    height: 150px;
+    padding: 0px;
+    margin-left: 80%;
+    margin-right: 50%;
+    border:double rgb(90, 12, 90);
+    border-width: 1em; 
+}
+.img7{
+    width: 230px;
+    height: 150px;
+    padding: 0px;
+    margin-left: 100%;
+    margin-right: 50%;
+    border: none rgb(153, 74, 153);
+    border-width: 1em; 
+}
+
+
+.main ul{
+    list-style: none;
+    margin: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 20px;
+}
+.main li{
+    display: inline-block;
+    padding: 40px;
+}
+.box{
+    width: 50%;
+    padding: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+    position: absolute;
+    text-align: center;
+    border-left: solid red 1rem;
+    border-right: solid darkmagenta 1rem;
+    border-top: solid darkgreen 1rem;
+    border-bottom: solid darkblue 1rem;
+    background-color: plum;
+    font-size: 20px;
+    font-stretch:wider;
+}
+.lower ul{
+    list-style: none;
+    text-align: center;
+    height: 50px;
+    background-color: rgb(65, 16, 65);
+    padding: 20px;
+    margin-top: 550px;
+    
+
+}
+.lower li{
+    display: inline-block;
+    
+
+}
+.lower a{
+    color: white;
+    
+    width: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+}
+.lower a:hover{
+    color: yellow;
+}
